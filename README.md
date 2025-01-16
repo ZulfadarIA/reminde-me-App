@@ -1,3 +1,6 @@
+# reminde-me-App
+Reminder/todo app with local notification
+
 # remind_me_app
 
 A new Flutter project.
